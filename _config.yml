@@ -1,0 +1,32 @@
+layout_spectrum: 0.09146794368946316
+typography_spectrum: 0.3125020496398764
+color:
+  brandStrength: 0.2019191015963581
+  lightness: 0.5671106824359977
+  saturation: 0.7540456081814326
+  rhythmicContrast: 0.2621159760792288
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: SUVs & Crossovers
+content: []
+title: SUVs & Crossovers 2017
+description: 'SUV-/Crossover-Neuwagen in Österreich, Stand April 2017'
+url: 'http://suv.theblacklion.net/'
+author:
+  name: Martin Stangl
+  email: martin.stangl@theblacklion.net
+  url: 'http://www.theblacklion.net'
+analytics:
+  google: UA-77405872-2
+github: true
