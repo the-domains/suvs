@@ -11,8 +11,8 @@ keywords:
 description: 'ab € 27.450,-Kofferraum: 780l VDA / 1940l max.'
 app_links: []
 title: Peugeot 5008
-datePublished: '2017-06-27T19:50:41.209Z'
-dateModified: '2017-06-27T19:50:39.063Z'
+datePublished: '2017-06-27T20:06:08.239Z'
+dateModified: '2017-06-27T20:06:07.189Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-20-der-neue-peugeot-5008-suv-or-by-peugeot.md
