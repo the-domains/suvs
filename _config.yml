@@ -37,6 +37,9 @@ navigation:
   - name: Honda CR-V
     id: f8e0706e-143e-48cb-95e6-3e5eef2cf12f
     type: content
+  - name: Skoda Kodiaq
+    id: 92c91c35-98d7-4781-b5b0-b089f5c78873
+    type: content
 title: Auswahlliste neues Auto
 content: []
 description: 'aus SUV-/Crossover-Neuwagen in Österreich, Stand April 2017'
