@@ -6,8 +6,8 @@ keywords: []
 description: 'ab € 26.890,-Kofferraum: 615l VDA / 1655l max.'
 app_links: []
 title: VW Tiguan
-datePublished: '2017-06-27T20:00:40.996Z'
-dateModified: '2017-06-27T20:00:39.189Z'
+datePublished: '2017-06-27T20:05:47.967Z'
+dateModified: '2017-06-27T20:05:46.839Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-20-der-tiguan-aufregend-innovativ.md
