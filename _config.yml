@@ -1,4 +1,3 @@
-layout_spectrum: 0.09146794368946316
 typography_spectrum: 0.3125020496398764
 color:
   brandStrength: 0.2019191015963581
@@ -11,6 +10,16 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+github: true
+layout_spectrum: 0.09146794368946316
+analytics:
+  google: UA-77405872-2
+author:
+  name: Martin Stangl
+  email: martin.stangl@theblacklion.net
+  url: 'http://www.theblacklion.net'
+name: SUVs & Crossovers
+url: 'http://suv2017.theblacklion.net'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -18,15 +27,10 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: SUVs & Crossovers
-content: []
+navigation:
+  - name: Seat Ateca
+    id: c1b33e14-2979-4fcf-8648-68b65beea633
+    type: content
 title: Auswahlliste neues Auto
+content: []
 description: 'aus SUV-/Crossover-Neuwagen in Österreich, Stand April 2017'
-url: 'http://suv2017.theblacklion.net'
-author:
-  name: Martin Stangl
-  email: martin.stangl@theblacklion.net
-  url: 'http://www.theblacklion.net'
-analytics:
-  google: UA-77405872-2
-github: true
