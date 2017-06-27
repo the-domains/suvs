@@ -31,6 +31,9 @@ navigation:
   - name: Seat Ateca
     id: c1b33e14-2979-4fcf-8648-68b65beea633
     type: content
+  - name: Mitsubishi Outlander
+    id: 9f5b9057-bcbf-40fa-a2ec-07a0c82d8231
+    type: content
 title: Auswahlliste neues Auto
 content: []
 description: 'aus SUV-/Crossover-Neuwagen in Österreich, Stand April 2017'
