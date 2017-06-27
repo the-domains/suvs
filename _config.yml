@@ -40,6 +40,9 @@ navigation:
   - name: Skoda Kodiaq
     id: 92c91c35-98d7-4781-b5b0-b089f5c78873
     type: content
+  - name: Nissan X-Trail
+    id: b7519473-016f-4aab-9ac9-1984127199b3
+    type: content
 title: Auswahlliste neues Auto
 content: []
 description: 'aus SUV-/Crossover-Neuwagen in Österreich, Stand April 2017'
