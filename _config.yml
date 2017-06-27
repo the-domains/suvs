@@ -46,6 +46,9 @@ navigation:
   - name: VW Tiguan
     id: a1896816-70cf-4987-90fc-5893e94c16f3
     type: content
+  - name: Peugeot 5008
+    id: 3ce3105e-700e-4cec-a325-32487d530813
+    type: content
 title: Auswahlliste neues Auto
 content: []
 description: 'aus SUV-/Crossover-Neuwagen in Österreich, Stand April 2017'
