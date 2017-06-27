@@ -3,11 +3,11 @@ author: []
 related: []
 publisher: {}
 keywords: []
-description: 'Seat Ateca ab € 19.990,- Kofferraum: 615l VDA / 1655l max.'
+description: 'Seat Atecaab € 19.990,-Kofferraum: 615l VDA / 1655l max.'
 app_links: []
 title: Seat Ateca
-datePublished: '2017-06-27T20:23:11.248Z'
-dateModified: '2017-06-27T20:23:09.647Z'
+datePublished: '2017-06-27T20:29:26.975Z'
+dateModified: '2017-06-27T20:29:25.526Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-20-seat-ateca.md
@@ -19,7 +19,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# **Seat Ateca**
+# **[Seat Ateca][0]**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3288fdac-0d81-4e25-a722-3b74bf0dbc38.jpg)
 
 Seat Ateca  
@@ -51,3 +51,7 @@ Kofferraum: 615l VDA / 1655l max.
 # Crashtest
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4eafab06ee74662296f7f1fd3eb36da9f701b437.jpg" /><h1>SEAT Ateca 2.0 TDI FR 4Drive DSG (7-Gang) ADAC Info - Autodatenbank Detailseite</h1><p>SEAT Ateca 2.0 TDI FR 4Drive DSG (7-Gang)</p></article>
+
+
+
+[0]: https://www.seat.at/ateca/uebersicht
