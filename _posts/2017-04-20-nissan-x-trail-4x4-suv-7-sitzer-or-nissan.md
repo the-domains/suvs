@@ -11,8 +11,8 @@ keywords: []
 description: 'ab € 25.750,-Kofferraum: 550l VDA / 1982l max.'
 app_links: []
 title: Nissan X-Trail
-datePublished: '2017-06-27T19:59:20.779Z'
-dateModified: '2017-06-27T19:59:19.725Z'
+datePublished: '2017-06-27T20:05:29.846Z'
+dateModified: '2017-06-27T20:05:28.367Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-20-nissan-x-trail-4x4-suv-7-sitzer-or-nissan.md
