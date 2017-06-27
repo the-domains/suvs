@@ -43,6 +43,9 @@ navigation:
   - name: Nissan X-Trail
     id: b7519473-016f-4aab-9ac9-1984127199b3
     type: content
+  - name: VW Tiguan
+    id: a1896816-70cf-4987-90fc-5893e94c16f3
+    type: content
 title: Auswahlliste neues Auto
 content: []
 description: 'aus SUV-/Crossover-Neuwagen in Österreich, Stand April 2017'
