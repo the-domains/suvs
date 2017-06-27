@@ -1,9 +1,10 @@
-typography_spectrum: 0.3125020496398764
+layout_spectrum: 0.6002401953604588
+typography_spectrum: 0.313274398556182
 color:
-  brandStrength: 0.2019191015963581
-  lightness: 0.5671106824359977
-  saturation: 0.7540456081814326
-  rhythmicContrast: 0.2621159760792288
+  brandStrength: 0.20661424468363646
+  lightness: 0.5643221233887507
+  saturation: 0.7529711976905565
+  rhythmicContrast: 0.2610051128920168
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
@@ -11,7 +12,6 @@ color:
     - '#3498DB'
     - '#2980B9'
 github: true
-layout_spectrum: 0.09146794368946316
 analytics:
   google: UA-77405872-2
 author:
