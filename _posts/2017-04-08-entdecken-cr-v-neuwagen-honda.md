@@ -3,11 +3,13 @@ author: []
 related: []
 publisher: {}
 keywords: []
-description: 'ab € 24.890,-Kofferraum: 589l VDA / 1146l umgeklappt VDA / 1669l max.'
+description: >-
+  Honda CR-V ab € 24.890,- Kofferraum: 589l VDA / 1146l umgeklappt VDA / 1669l
+  max.
 app_links: []
 title: Honda CR-V
-datePublished: '2017-06-27T20:04:43.007Z'
-dateModified: '2017-06-27T20:04:41.723Z'
+datePublished: '2017-06-27T20:30:48.741Z'
+dateModified: '2017-06-27T20:30:48.105Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-08-entdecken-cr-v-neuwagen-honda.md
@@ -19,19 +21,18 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Honda CR-V
+# **[Honda CR-V][0]**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d2c038c-7746-4dd9-a25c-736baf5c38dd.jpg)
 
+Honda CR-V  
 ab € 24.890,-  
 Kofferraum: 589l VDA / 1146l umgeklappt VDA / 1669l max.
 
-<article style=""><h1>Entdecken - CR-V - Neuwagen - Honda</h1><p>Die hochwertige Verarbeitung und das limousinenartige Fahrgefühl des CR-V sorgen für ein außergewöhnliches Fahrerlebnis.</p></article>
-
-## Angebote
+# Angebote
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13edb43d775677ce8ce8220e7e33ac1b9b005446.gif" /><h1>Autos auf gebrauchtwagen.at</h1><p>8 Autos gefunden. Gebrauchtwagen, Neuwagen, Nutzfahrzeuge und Wohnmobile finden und inserieren auf gebrauchtwagen.at!</p></article>
 
-## Tests
+# Tests
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0beb19c483484e3d748b1ebb762f2086ada66ea.jpg" /><h1>ADAC Auto-Test Honda CR-V 1.6 i-DTEC Executive 4WD</h1><p>Zum aktuellen Modelljahr hat Honda sein Erfolgsmodell CR-V aufgefrischt und mit dem neu entwickelten 1,6 Liter großen Diesel zum ADAC Autotest geschickt. Wie vom Vorgänger bekannt, spielt der Mittelklasse-SUV die Stärken des Fahrzeugkonzepts gekonnt aus: Ein sehr großer Kofferraum, das durchdachte Klappkonzept der Rückbank und die komfortable Fahrwerksabstimmung machen den Honda zu einem familientauglichen Langstreckenfahrzeug erster Güte.</p></article>
 
@@ -41,6 +42,10 @@ Kofferraum: 589l VDA / 1146l umgeklappt VDA / 1669l max.
 
 <article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4a4b2856408ce6e0bca7a83f9c746375/noop.jpg?input=https%3A%2F%2Fimgr3.auto-motor-und-sport.de%2FHonda-CR-V-2015-Fahrbericht-fotoshowBig-f316d81c-837705.jpg" /><h1>Honda CR-V 2015 im ersten Test: Update für den Erfolgstyp</h1><p>Der CR-V ist Hondas wichtigstes Pferd im Stall. Meistverkauftes Modell in Deutschland, millionenfach verkauft auf den Weltmärkten. Dabei ist der CR-V kein Prahlhans oder Aufschneider, er hat im Gegenteil seit der ersten Modellgeneration das Understatement perfektioniert. Statt Protz und Krawall setzt der CR-V auf pfiffige Details, das begann schon mit der zum Campingtisch umfunktionierbaren Laderaumabdeckung im 1996 erstmals angebotenen Ur-Modell.</p></article>
 
-### Crashtest
+# Crashtest
 
 <article style=""><img src="https://www.adac.de/_ext/itr/tests/Autodaten/gross/IM03258_0_Honda_CR-V.jpg" /><h1>Honda CR-V 1.6 i-DTEC Executive 4WD Automatik ADAC Info - Autodatenbank Detailseite</h1><p>Honda CR-V 1.6 i-DTEC Executive 4WD Automatik</p></article>
+
+
+
+[0]: http://www.honda.at/cars/new/crv-2015/overview.html
