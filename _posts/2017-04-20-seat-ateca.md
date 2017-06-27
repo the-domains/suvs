@@ -6,8 +6,8 @@ keywords: []
 description: 'ab € 19.990,-Kofferraum: 615l VDA / 1655l max.'
 app_links: []
 title: Seat Ateca
-datePublished: '2017-06-27T18:36:04.387Z'
-dateModified: '2017-06-27T18:36:03.683Z'
+datePublished: '2017-06-27T18:39:56.137Z'
+dateModified: '2017-06-27T18:39:55.251Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-20-seat-ateca.md
@@ -27,13 +27,9 @@ Kofferraum: 615l VDA / 1655l max.
 
 <article style=""><h1>SEAT Ateca</h1><p>Kraftvolle Motoren, komfortabler Innenraum &amp; neueste Technologien: Der SEAT Ateca kann alles, was ein SUV können muss. Jetzt entdecken!</p></article>
 
----
-
 ## Angebote
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13edb43d775677ce8ce8220e7e33ac1b9b005446.gif" /><h1>Autos auf gebrauchtwagen.at</h1><p>31 Autos gefunden. Gebrauchtwagen, Neuwagen, Nutzfahrzeuge und Wohnmobile finden und inserieren auf gebrauchtwagen.at!</p></article>
-
----
 
 ## Tests
 
