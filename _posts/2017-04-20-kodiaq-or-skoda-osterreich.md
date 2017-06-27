@@ -3,11 +3,11 @@ author: []
 related: []
 publisher: {}
 keywords: []
-description: 'ab € 25.690,-Kofferraum: 650l VDA / 2065l max.'
+description: 'Skoda Kodiaq ab € 25.690,- Kofferraum: 650l VDA / 2065l max.'
 app_links: []
 title: Skoda Kodiaq
-datePublished: '2017-06-27T20:05:03.347Z'
-dateModified: '2017-06-27T20:05:01.937Z'
+datePublished: '2017-06-27T20:32:05.579Z'
+dateModified: '2017-06-27T20:32:04.443Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-20-kodiaq-or-skoda-osterreich.md
@@ -19,19 +19,18 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Skoda Kodiaq
+# **[Skoda Kodiaq][0]**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4ad6d52-fa50-44cb-8b17-8d19c2c4d9dc.jpg)
 
+Skoda Kodiaq  
 ab € 25.690,-  
 Kofferraum: 650l VDA / 2065l max.
 
-<article style=""><h1>KODIAQ | ŠKODA Österreich</h1></article>
-
-## Angebote
+# Angebote
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13edb43d775677ce8ce8220e7e33ac1b9b005446.gif" /><h1>Autos auf gebrauchtwagen.at</h1><p>7 Autos gefunden. Gebrauchtwagen, Neuwagen, Nutzfahrzeuge und Wohnmobile finden und inserieren auf gebrauchtwagen.at!</p></article>
 
-## Tests
+# Tests
 
 <article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2bb027f8e03e9f503a88562615b83b3e/noop.jpg?input=https%3A%2F%2Fwww.adac.de%2F_ext%2Fitr%2Ftests%2FAutotest%2FAT5567_Skoda_Kodiaq_2.0_TDI_SCR_Style_4x4_DSG_7-Gang_%2Fcharakterisierung.jpg" /><h1>ADAC Auto-Test Skoda Kodiaq 2.0 TDI SCR Style 4x4 DSG (7-Gang)</h1><p>Der Kodiaq ist das zweite SUV im Skoda-Modellprogramm. Der Tscheche basiert auf dem Modularen Querbaukasten des Volkswagen-Konzerns und teilt sich daher viele Komponenten mit dem VW Tiguan. Wie sein Technikspender überzeugt auch der Kodiaq mit seiner einfachen Bedienung, umfangreicher Sicherheitsausstattung, hohem Fahrkomfort und sicheren Fahreigenschaften.</p></article>
 
@@ -46,3 +45,7 @@ Kofferraum: 650l VDA / 2065l max.
 <article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/08d8966a3473ad5d4fee4d67c99a168d/noop.jpg?input=https%3A%2F%2Fimgr2.auto-motor-und-sport.de%2FSkoda-Kodiaq-2-0-TSI-4x4-Bremstest-fotoshowBig-a6c79c93-993954.jpg" /><h1>Skoda Kodiaq 2.0 TSI 4x4 Style (2016) im Test: Skodas neuer Kompakt-SUV im Praxis-Check</h1><p>Wahrscheinlich haben Sie nun schon jede Menge über den Skoda Kodiaq gelesen, unter anderem dass der Name sich von einer Bärenart in Alaska herleitet. Stimmt natürlich wieder nur halb. In Wahrheit stammt das Wort aus der Sprache der Alutiiq, der auf dem Kodiak-Archipel und der Alaska-Halbinsel einheimischen Ureinwohner, und bedeutet nicht etwa &amp;bdquo;Bär", sondern &amp;bdquo;Insel".</p></article>
 
 <article style=""><img src="https://imgr2.auto-motor-und-sport.de/Skoda-Kodiaq-4x4-TSI-Fahrbericht-fotoshowBig-5e795742-989785.jpg" /><h1>Skoda Kodiaq (2017) im Fahrbericht: XXL-Tiguan mit sieben Sitzen</h1><p>Beginnen gleich mit dem Wesentlichen: Der Kodiaq fährt, und zwar richtig gut. Der gefühlte Unterschied zu den Konzernbrüdern VW Tiguan und Seat Ateca ist - wenig überraschend - recht gering. Alle drei basieren ja bekanntlich auf dem Modularen Querbaukasten, Ateca und Kodiaq laufen gar gemeinsam vom Band.</p></article>
+
+
+
+[0]: http://www.skoda.at/kodiaq
