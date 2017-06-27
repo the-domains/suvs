@@ -3,11 +3,11 @@ author: []
 related: []
 publisher: {}
 keywords: []
-description: 'ab € 19.990,-Kofferraum: 615l VDA / 1655l max.'
+description: 'Seat Ateca ab € 19.990,- Kofferraum: 615l VDA / 1655l max.'
 app_links: []
 title: Seat Ateca
-datePublished: '2017-06-27T20:20:05.557Z'
-dateModified: '2017-06-27T20:20:04.442Z'
+datePublished: '2017-06-27T20:23:11.248Z'
+dateModified: '2017-06-27T20:23:09.647Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-20-seat-ateca.md
@@ -22,6 +22,7 @@ _type: MediaObject
 # **Seat Ateca**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3288fdac-0d81-4e25-a722-3b74bf0dbc38.jpg)
 
+Seat Ateca  
 ab € 19.990,-  
 Kofferraum: 615l VDA / 1655l max.
 
