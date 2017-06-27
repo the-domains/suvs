@@ -6,8 +6,8 @@ keywords: []
 description: 'ab € 21.990,-Kofferraum: 591l VDA / 1754l max.'
 app_links: []
 title: Mitsubishi Outlander
-datePublished: '2017-06-27T18:49:44.418Z'
-dateModified: '2017-06-27T18:49:43.441Z'
+datePublished: '2017-06-27T19:54:00.474Z'
+dateModified: '2017-06-27T19:53:58.990Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-20-outlander-or-mitsubishi-motors.md
@@ -33,6 +33,10 @@ Kofferraum: 591l VDA / 1754l max.
 
 ## Tests
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/25f8b543f6caaa55ca93fc6a0bd11c47/noop.jpg?input=https%3A%2F%2Fwww.adac.de%2F_ext%2Fitr%2Ftests%2FAutotest%2FAT5466_Mitsubishi_Outlander_2_0_ClearTec_Plus_2WD%2Fcharakterisierung.jpg" /><h1>ADAC Auto-Test Mitsubishi Outlander 2.0 ClearTec Plus 2WD</h1><p>Mitsubishi hat den Outlander der dritten Generation zum Modelljahr 2016 einem Facelift unterzogen. Auffallend ist vor allem die Neugestaltung der Frontpartie, die nun im neuen Markendesign gehalten ist. Geblieben ist das großzügige Platzangebot im Innen- und Kofferraum. Wiederum neu ist die Abstimmung des Fahrwerks, das nun einen ordentlichen Federungskomfort bietet und nicht mehr so hölzern federt.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5264b86995bb716dcf4575bbda8e586f52027c93.jpg" /><h1>ADAC Auto-Test Mitsubishi Outlander 2.0 ClearTec Plus 2WD</h1><p>Mitsubishi hat den Outlander der dritten Generation zum Modelljahr 2016 einem Facelift unterzogen. Auffallend ist vor allem die Neugestaltung der Frontpartie, die nun im neuen Markendesign gehalten ist. Geblieben ist das großzügige Platzangebot im Innen- und Kofferraum. Wiederum neu ist die Abstimmung des Fahrwerks, das nun einen ordentlichen Federungskomfort bietet und nicht mehr so hölzern federt.</p></article>
 
-<article style=""><img src="https://imgr3.auto-motor-und-sport.de/Mitsubishi-Outlander-2-2-Di-D-4WD-Heckansicht-fotoshowBig-2246f318-924216.jpg" /><h1>Mitsubishi Outlander Fahrbericht: Wenig Temperament, gute Ausstattung, schwache Bremsen</h1><p>Foto: Dino Eisele 15 Bilder Die jüngste Modellpflege hat dem SUV zwar einige Verbesserungen, aber keine standfesteren Bremsen gebracht. 09.03.2016 Bernd Stegemann Stimmt, in puncto Ausstattung ist die getestete Top-Version des frisch renovierten Mitsubishi Outlander wirklich top: Von LED-Scheinwerfern und Navigationssystem über heizbare Ledersitze bis hin zu Glasschiebedach und elektrischer Heckklappe bringt sie viele Nettigkeiten mit, die das Leben angenehmer und sicherer, aber bei der Konkurrenz oft um rund 10.000 Euro teurer machen.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8d31e45629c4b6abf9f8072eae15f9a6837f613.jpg" /><h1>Mitsubishi Outlander Fahrbericht: Wenig Temperament, gute Ausstattung, schwache Bremsen</h1><p>Foto: Dino Eisele 15 Bilder Die jüngste Modellpflege hat dem SUV zwar einige Verbesserungen, aber keine standfesteren Bremsen gebracht. 09.03.2016 Bernd Stegemann Stimmt, in puncto Ausstattung ist die getestete Top-Version des frisch renovierten Mitsubishi Outlander wirklich top: Von LED-Scheinwerfern und Navigationssystem über heizbare Ledersitze bis hin zu Glasschiebedach und elektrischer Heckklappe bringt sie viele Nettigkeiten mit, die das Leben angenehmer und sicherer, aber bei der Konkurrenz oft um rund 10.000 Euro teurer machen.</p></article>
+
+### Crashtest
+
+<article style=""><img src="https://www.adac.de/_ext/itr/tests/Autodaten/gross/IM03429_1_Mitsubishi_Outlander.jpg" /><h1>Mitsubishi Outlander 2.2 DI-D Plus 4WD Automatik ADAC Info - Autodatenbank Detailseite</h1><p>Mitsubishi Outlander 2.2 DI-D Plus 4WD Automatik</p></article>
