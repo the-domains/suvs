@@ -6,8 +6,8 @@ keywords: []
 description: 'ab € 25.690,-Kofferraum: 650l VDA / 2065l max.'
 app_links: []
 title: Skoda Kodiaq
-datePublished: '2017-06-27T19:20:52.152Z'
-dateModified: '2017-06-27T19:20:51.450Z'
+datePublished: '2017-06-27T20:05:03.347Z'
+dateModified: '2017-06-27T20:05:01.937Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-20-kodiaq-or-skoda-osterreich.md
