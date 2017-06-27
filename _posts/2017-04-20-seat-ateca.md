@@ -6,8 +6,8 @@ keywords: []
 description: 'ab € 19.990,-Kofferraum: 615l VDA / 1655l max.'
 app_links: []
 title: Angebote
-datePublished: '2017-06-27T18:21:10.663Z'
-dateModified: '2017-06-27T18:21:09.791Z'
+datePublished: '2017-06-27T18:21:24.854Z'
+dateModified: '2017-06-27T18:21:24.061Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-20-seat-ateca.md
@@ -38,6 +38,6 @@ Kofferraum: 615l VDA / 1655l max.
 
 <article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c0b62708d1003d26fcac9580cd0f703f/noop.jpg?input=https%3A%2F%2Fimgr2.auto-motor-und-sport.de%2FSeat-Ateca-1-4-TSI-Seitenansicht-fotoshowBig-18728efb-960063.jpg" /><h1>Seat Ateca 1.4 TSI im Test: Was kann der erste SUV von Seat?</h1><p>Willkommen in Deutschlands Automitte, willkommen im Ateca. Das ist der Brandneue von Seat, ein Schwestermodell des VW Tiguan - und womöglich demnächst das erfolgreichste Auto der spanischen VW-Tochter. Schließlich ist der Run auf kompakte SUV längst zur Massenbewegung geworden, wie die Verkaufszahlen beweisen: Einen Ateca-Kaufvertrag haben laut Seat bereits 5.000 Kunden schon vor Markteinführung unterschrieben.</p></article>
 
-<article style=""><img src="https://imgr3.auto-motor-und-sport.de/Seat-Ateca-VW-Tiguan-Fahrvergleich-AMS1316-fotoshowBig-23e2fb51-958914.jpg" /><h1>Seat Ateca 2.0 TDI und VW Tiguan 2.0 TDI SCR im Test: Der Ateca trifft auf den Platzhirsch</h1><p>Endlich hat auch Seat mit dem Ateca einen eigenen SUV. Leicht wird er es angesichts der vielen Konkurrenten nicht haben. Beim ersten Kennenlernen vergleichen wir ihn mit seinem Konzernbruder VW Tiguan. Wo liegen die Unterschiede, und was kann der Spanier besser?</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a028ab359d446c33e486f3a813a633a3/noop.jpg?input=https%3A%2F%2Fimgr3.auto-motor-und-sport.de%2FSeat-Ateca-VW-Tiguan-Fahrvergleich-AMS1316-fotoshowBig-23e2fb51-958914.jpg" /><h1>Seat Ateca 2.0 TDI und VW Tiguan 2.0 TDI SCR im Test: Der Ateca trifft auf den Platzhirsch</h1><p>Endlich hat auch Seat mit dem Ateca einen eigenen SUV. Leicht wird er es angesichts der vielen Konkurrenten nicht haben. Beim ersten Kennenlernen vergleichen wir ihn mit seinem Konzernbruder VW Tiguan. Wo liegen die Unterschiede, und was kann der Spanier besser?</p></article>
 
-<article style=""><img src="https://imgr2.auto-motor-und-sport.de/Seat-Ateca-Fahrbericht-03-2016-SUV-fotoshowBig-efdbb091-935333.jpg" /><h1>Fahrbericht neuer Seat Ateca (2016): Spanischer SUV souverän, aber ohne Wow-Effekt</h1><p>Seat expandiert: Mit dem aktuellen Leon gelang der VW-Tochter der lang ersehnte Durchbruch und die Spanier etablierten sich nach Jahren wieder unter den Marken mit nennenswerten Absatzzahlen. Aber eine besonders wichtige Fahrzeuggattung fehlte noch im Portfolio: ein SUV, der den Absatzrückgang bei Vans wie dem Alhambra kompensiert.</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d66e4267de325f341690b17c85d36830/noop.jpg?input=https%3A%2F%2Fimgr2.auto-motor-und-sport.de%2FSeat-Ateca-Fahrbericht-03-2016-SUV-fotoshowBig-efdbb091-935333.jpg" /><h1>Fahrbericht neuer Seat Ateca (2016): Spanischer SUV souverän, aber ohne Wow-Effekt</h1><p>Seat expandiert: Mit dem aktuellen Leon gelang der VW-Tochter der lang ersehnte Durchbruch und die Spanier etablierten sich nach Jahren wieder unter den Marken mit nennenswerten Absatzzahlen. Aber eine besonders wichtige Fahrzeuggattung fehlte noch im Portfolio: ein SUV, der den Absatzrückgang bei Vans wie dem Alhambra kompensiert.</p></article>
