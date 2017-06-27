@@ -3,11 +3,11 @@ author: []
 related: []
 publisher: {}
 keywords: []
-description: 'Mitsubishi Outlander ab € 21.990,- Kofferraum: 591l VDA / 1754l max.'
+description: 'Mitsubishi Outlanderab € 21.990,-Kofferraum: 591l VDA / 1754l max.'
 app_links: []
 title: Mitsubishi Outlander
-datePublished: '2017-06-27T20:25:46.722Z'
-dateModified: '2017-06-27T20:25:45.857Z'
+datePublished: '2017-06-27T20:29:43.970Z'
+dateModified: '2017-06-27T20:29:42.862Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-20-outlander-or-mitsubishi-motors.md
@@ -25,8 +25,6 @@ _type: MediaObject
 Mitsubishi Outlander  
 ab € 21.990,-  
 Kofferraum: 591l VDA / 1754l max.
-
-<article style=""><h1>Outlander | Mitsubishi Motors</h1></article>
 
 # Angebote
 
