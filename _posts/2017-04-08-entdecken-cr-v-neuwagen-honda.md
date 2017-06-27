@@ -6,8 +6,8 @@ keywords: []
 description: 'ab € 24.890,-Kofferraum: 589l VDA / 1146l umgeklappt VDA / 1669l max.'
 app_links: []
 title: Honda CR-V
-datePublished: '2017-06-27T19:55:48.949Z'
-dateModified: '2017-06-27T19:55:47.973Z'
+datePublished: '2017-06-27T20:04:43.007Z'
+dateModified: '2017-06-27T20:04:41.723Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-08-entdecken-cr-v-neuwagen-honda.md
