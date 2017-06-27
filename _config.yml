@@ -34,6 +34,9 @@ navigation:
   - name: Mitsubishi Outlander
     id: 9f5b9057-bcbf-40fa-a2ec-07a0c82d8231
     type: content
+  - name: Honda CR-V
+    id: f8e0706e-143e-48cb-95e6-3e5eef2cf12f
+    type: content
 title: Auswahlliste neues Auto
 content: []
 description: 'aus SUV-/Crossover-Neuwagen in Österreich, Stand April 2017'
