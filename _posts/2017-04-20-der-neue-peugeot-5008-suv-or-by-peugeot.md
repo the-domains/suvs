@@ -7,8 +7,8 @@ keywords:
 description: 'Peugeot 5008ab € 27.450,-Kofferraum: 780l VDA / 1940l max.'
 app_links: []
 title: Peugeot 5008
-datePublished: '2017-06-27T20:37:29.330Z'
-dateModified: '2017-06-27T20:37:28.141Z'
+datePublished: '2017-07-09T05:00:32.064Z'
+dateModified: '2017-07-09T05:00:31.509Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-20-der-neue-peugeot-5008-suv-or-by-peugeot.md
@@ -29,7 +29,7 @@ Kofferraum: 780l VDA / 1940l max.
 
 # Angebote
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13edb43d775677ce8ce8220e7e33ac1b9b005446.gif" /><h1>Autos auf gebrauchtwagen.at</h1><p>3 Autos gefunden. Gebrauchtwagen, Neuwagen, Nutzfahrzeuge und Wohnmobile finden und inserieren auf gebrauchtwagen.at!</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6b1f79aaed0160ebd3fa33680c1acb24/noop.gif?input=https%3A%2F%2Fbilder.gebrauchtwagen.at%2Fimages%2Ffb_gw.gif" /><h1>Autos auf gebrauchtwagen.at</h1><p>64 Autos gefunden. Gebrauchtwagen, Neuwagen, Nutzfahrzeuge und Wohnmobile finden und inserieren auf gebrauchtwagen.at!</p></article>
 
 # Tests
 
