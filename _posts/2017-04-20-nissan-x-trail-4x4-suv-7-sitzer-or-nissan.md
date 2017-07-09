@@ -3,11 +3,11 @@ author: []
 related: []
 publisher: {}
 keywords: []
-description: 'Nissan X-Trail ab € 25.750,- Kofferraum: 550l VDA / 1982l max.'
+description: 'Nissan X-Trailab € 25.750,-Kofferraum: 550l VDA / 1982l max.'
 app_links: []
 title: Nissan X-Trail
-datePublished: '2017-06-27T20:34:27.555Z'
-dateModified: '2017-06-27T20:34:26.753Z'
+datePublished: '2017-07-09T04:58:56.722Z'
+dateModified: '2017-07-09T04:58:55.924Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-20-nissan-x-trail-4x4-suv-7-sitzer-or-nissan.md
@@ -28,7 +28,7 @@ Kofferraum: 550l VDA / 1982l max.
 
 # Angebote
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13edb43d775677ce8ce8220e7e33ac1b9b005446.gif" /><h1>Autos auf gebrauchtwagen.at</h1><p>8 Autos gefunden. Gebrauchtwagen, Neuwagen, Nutzfahrzeuge und Wohnmobile finden und inserieren auf gebrauchtwagen.at!</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6b1f79aaed0160ebd3fa33680c1acb24/noop.gif?input=https%3A%2F%2Fbilder.gebrauchtwagen.at%2Fimages%2Ffb_gw.gif" /><h1>Autos auf gebrauchtwagen.at</h1><p>120 Autos gefunden. Gebrauchtwagen, Neuwagen, Nutzfahrzeuge und Wohnmobile finden und inserieren auf gebrauchtwagen.at!</p></article>
 
 # Tests
 
@@ -44,7 +44,7 @@ Kofferraum: 550l VDA / 1982l max.
 
 # Crashtest
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/432ccae42cafece6337b4eaf357c2002/noop.jpg?input=https%3A%2F%2Fwww.adac.de%2F_ext%2Fitr%2Ftests%2FAutodaten%2Fgross%2FIM03108_0_Nissan_X_Trail.jpg" /><h1>Nissan X-Trail 2.0 dCi N-Connecta 4x4i ADAC Info - Autodatenbank Detailseite</h1><p>Nissan X-Trail 2.0 dCi N-Connecta 4x4i</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2cc8f1d89dd0c0e4e35338c1dc6fe14b602171a0.jpg" /><h1>Nissan X-Trail 2.0 dCi N-Connecta 4x4i ADAC Info - Autodatenbank Detailseite</h1><p>Nissan X-Trail 2.0 dCi N-Connecta 4x4i</p></article>
 
 
 
