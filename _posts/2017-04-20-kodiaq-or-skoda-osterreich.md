@@ -6,8 +6,8 @@ keywords: []
 description: 'Skoda Kodiaqab € 25.690,-Kofferraum: 650l VDA / 2065l max.'
 app_links: []
 title: Skoda Kodiaq
-datePublished: '2017-07-09T04:56:59.676Z'
-dateModified: '2017-07-09T04:56:59.082Z'
+datePublished: '2017-07-09T04:57:27.204Z'
+dateModified: '2017-07-09T04:57:26.653Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-20-kodiaq-or-skoda-osterreich.md
@@ -28,7 +28,7 @@ Kofferraum: 650l VDA / 2065l max.
 
 # Angebote
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13edb43d775677ce8ce8220e7e33ac1b9b005446.gif" /><h1>Autos auf gebrauchtwagen.at</h1><p>7 Autos gefunden. Gebrauchtwagen, Neuwagen, Nutzfahrzeuge und Wohnmobile finden und inserieren auf gebrauchtwagen.at!</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6b1f79aaed0160ebd3fa33680c1acb24/noop.gif?input=https%3A%2F%2Fbilder.gebrauchtwagen.at%2Fimages%2Ffb_gw.gif" /><h1>Autos auf gebrauchtwagen.at</h1><p>61 Autos gefunden. Gebrauchtwagen, Neuwagen, Nutzfahrzeuge und Wohnmobile finden und inserieren auf gebrauchtwagen.at!</p></article>
 
 # Tests
 
