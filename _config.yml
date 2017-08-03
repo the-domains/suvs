@@ -13,7 +13,7 @@ color:
     - '#2980B9'
 github: true
 analytics:
-  google: UA-77405872-2
+  google: ''
 author:
   name: Martin Stangl
   email: martin.stangl@theblacklion.net
